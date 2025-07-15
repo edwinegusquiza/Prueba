@@ -1,0 +1,14 @@
+git config --global user.name "Edwin Egusquiza"
+git config --global user.email edwinegusquiza@gmail.com
+
+git config --list
+git config user.name
+
+git init
+
+git add archivo.txt
+git status
+git add --all
+
+git commit -m "comentario"
+
