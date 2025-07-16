@@ -12,3 +12,10 @@ git add --all
 
 git commit -m "comentario"
 
+git log
+
+git remote add origin https://github.com/edwinegusquiza/Prueba.git
+git remote -v (verificar conexion remota)
+
+git push origin master
+
